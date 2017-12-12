@@ -1,6 +1,6 @@
-package com.abstractFactory.pattern;
+package com.design.patterns.creational.abstractFactory;
 
-import com.factory.pattern.Computer;
+import com.design.patterns.creational.factory.Computer;
 
 public class AbstractFactoryTestApp {
 

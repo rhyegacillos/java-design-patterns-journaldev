@@ -1,4 +1,4 @@
-package com.singleton;
+package com.design.patterns.creational.singleton;
 
 public class EagerInitializedSingleton {
     private static final EagerInitializedSingleton instance = new EagerInitializedSingleton();

@@ -1,7 +1,7 @@
-package com.abstractFactory.pattern;
+package com.design.patterns.creational.abstractFactory;
 
-import com.factory.pattern.Computer;
-import com.factory.pattern.Server;
+import com.design.patterns.creational.factory.Computer;
+import com.design.patterns.creational.factory.Server;
 
 public class ServerFactory implements ComputerAbstractFactory {
 
