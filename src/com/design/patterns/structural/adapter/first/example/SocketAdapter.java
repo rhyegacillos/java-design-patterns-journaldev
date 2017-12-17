@@ -1,4 +1,4 @@
-package com.design.patterns.structural.adapter;
+package com.design.patterns.structural.adapter.first.example;
 
 public interface SocketAdapter {
     Volt get120Volt();

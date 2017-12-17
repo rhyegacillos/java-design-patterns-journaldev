@@ -1,4 +1,4 @@
-package com.design.patterns.structural.adapter;
+package com.design.patterns.structural.adapter.first.example;
 
 // using inheritance for adapter pattern
 public class SocketClassAdapterImpl extends Socket implements SocketAdapter {
