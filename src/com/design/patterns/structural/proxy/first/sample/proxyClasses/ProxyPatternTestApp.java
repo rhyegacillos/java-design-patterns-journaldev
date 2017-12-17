@@ -1,4 +1,4 @@
-package com.design.patterns.structural.proxy.another.sample.proxyClasses;
+package com.design.patterns.structural.proxy.first.sample.proxyClasses;
 
 public class ProxyPatternTestApp {
     public static void main(String[] args) {

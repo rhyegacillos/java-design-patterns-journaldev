@@ -1,4 +1,4 @@
-package com.design.patterns.structural.proxy.another.sample.originalClasses;
+package com.design.patterns.structural.proxy.first.sample.originalClasses;
 
 public class ConcreteSubject extends Subject {
     @Override

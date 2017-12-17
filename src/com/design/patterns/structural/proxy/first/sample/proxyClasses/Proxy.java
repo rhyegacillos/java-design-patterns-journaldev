@@ -1,7 +1,7 @@
-package com.design.patterns.structural.proxy.another.sample.proxyClasses;
+package com.design.patterns.structural.proxy.first.sample.proxyClasses;
 
-import com.design.patterns.structural.proxy.another.sample.originalClasses.ConcreteSubject;
-import com.design.patterns.structural.proxy.another.sample.originalClasses.Subject;
+import com.design.patterns.structural.proxy.first.sample.originalClasses.ConcreteSubject;
+import com.design.patterns.structural.proxy.first.sample.originalClasses.Subject;
 
 public class Proxy extends Subject {
 
