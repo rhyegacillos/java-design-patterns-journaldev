@@ -1,4 +1,4 @@
-package com.design.patterns.creational.factory;
+package com.design.patterns.creational.factory.first.example;
 
 public abstract class Computer {
     public abstract String getRam();

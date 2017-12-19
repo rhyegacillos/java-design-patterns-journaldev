@@ -1,7 +1,7 @@
 package com.design.patterns.creational.abstractFactory.first.example;
 
-import com.design.patterns.creational.factory.Computer;
-import com.design.patterns.creational.factory.PC;
+import com.design.patterns.creational.factory.first.example.Computer;
+import com.design.patterns.creational.factory.first.example.PC;
 
 public class PCFactory implements ComputerAbstractFactory {
 
