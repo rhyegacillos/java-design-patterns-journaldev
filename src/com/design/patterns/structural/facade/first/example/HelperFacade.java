@@ -35,7 +35,7 @@ public class HelperFacade {
     }
 
     public static enum DBTypes {
-        MYSQL, ORACLE;
+        MYSQL, ORACLE
     }
 
     public static enum ReportTypes {
