@@ -80,7 +80,6 @@ public class FlyweightPatternEx2 {
             shape.setColor(getRandomColor());
             shape.print();
         }
-
         int numOfDistinctRobots = myFactory.totalObjectsCreated();
         System.out.println("\n Distinct Robot objects created: " + numOfDistinctRobots);
 
