@@ -1,7 +1,5 @@
 package com.design.patterns.behavioral.mediator.second.example;
 
-import java.awt.*;
-
 abstract class Mediator {
     public abstract void send(Friend friend, String msg);
 }
